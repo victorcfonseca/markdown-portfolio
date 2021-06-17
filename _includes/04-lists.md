@@ -1,4 +1,4 @@
-# Comer
-# Beber
-# Ler
-# Estudar
+* Comer
+* Beber
+- Ler
+- Estudar
